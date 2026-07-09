@@ -19,3 +19,6 @@ Repositório criado como parte do desafio prático de **Git e GitHub** da [DIO](
 
 **Idna Reis** — QA em transição, apaixonada por qualidade e tecnologia.
 [GitHub](https://github.com/IdnaReis) | [LinkedIn](https://www.linkedin.com/)
+
+
+> ✅ Desafio concluído com sucesso em 09/07/2026!
